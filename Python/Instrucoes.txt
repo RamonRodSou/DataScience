@@ -1,0 +1,17 @@
+ 
+** Entrar no ambiente interativo do python **
+
+abre o terminal e digita:
+python 
+python -i nomeDoArquivo.py
+
+
+-------------------------------------------------------------------------------------------------------
+
+** Metodos **
+
+dit()  -  retorna todos os meetodos que estao no objeto e ver oque eu posso fazer com um tipo: exemplo
+dirt(100) - todos os metodos da classe int
+
+help() - retorna com mais detale a documentacao do objeto 
+help(int) - retorna a documentacao da classe int
